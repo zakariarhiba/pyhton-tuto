@@ -1,6 +1,6 @@
 #drna '#'  bach nbdaw comment
 
-#hado le types deal les variables :
+#hado le types deal les variables:
 age = 10             #int
 x = 2.5              #float
 smiya = "zakaria"    #string str
