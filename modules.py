@@ -11,3 +11,6 @@ import datetime
 from datetime import date
 today = date.today()
 print(today)
+
+# ila bghiti telecharge chi modulo jdid katktb f terminal
+# pip install 'smiya'
